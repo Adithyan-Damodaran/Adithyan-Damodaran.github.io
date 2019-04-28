@@ -1,0 +1,23 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Aniyan Namboothiri
+  i18n: jalpc
+  url:
+  number: 121212
+  img: /static/assets/img/landing/1.png
+  desc: Main Pooja
+
+- name: EV Vasudevan Namboothiri
+  i18n: cpython
+  url:
+  number: 121212
+  img: /static/assets/img/landing/2.jpg
+  desc: Cashier
+
+- name: Warrier
+  i18n: google
+  url:
+  number: 121212
+  img: /static/assets/img/landing/3.jpg
+  desc: Cleaning

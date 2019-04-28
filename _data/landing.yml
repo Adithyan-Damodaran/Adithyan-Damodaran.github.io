@@ -1,0 +1,38 @@
+# index page sections
+# custom following lines to edit your index page
+- id: about-me
+  i18n: nav.about_me
+  name: About
+  tpl: about.html
+  css:
+
+- id: Career
+  i18n: nav.career
+  name: Events
+  tpl: events.html
+  css: timeline
+
+- id: skills
+  i18n: nav.skills
+  name: Poojas
+  tpl: poojas.html
+  css: team
+
+- id: projects
+  i18n: nav.projects
+  name: Team
+  tpl: team.html
+  css: project
+
+- id: blog
+  i18n: nav.blog
+  name: Images
+  tpl: blog.html
+  page: blog/
+  css: testimonials navy-section
+
+- id: links
+  i18n: nav.link
+  name: Contributions
+  tpl: contributions.html
+  css: contact
